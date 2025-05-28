@@ -11,6 +11,6 @@ The mission of the Magnetic Media Crisis Committee (MMCC) is to support the arch
 The MMCC seeks to establish, revise, and maintain best practices to promote sustainable workflows that address shifting and escalating issues involved in the preservation of magnetic media on both audio and video formats. To address this work holistically, we include the obsolescence of the playback equipment, technical knowledge and the capacity of the archivists working to preserve these materials, as well as the physical tape itself, to be part of the current Magnetic Media Crisis. As a collective, the MMCC’s aim is to work modularly so resources, knowledge, time and labor are strategically maximized. Instead of discussing “degralescence” as the impending doom of our profession, we need to come to terms with the possibility that it may have already arrived, but there is still action that can be taken! If we are willing to collaborate and think of this as a “human problem” there must also be “human solutions.”
 
 ## Resources
-[MMCC Discord](https://discord.gg/qtgYUdpn)
+* [MMCC Discord](https://discord.gg/qtgYUdpn)
 
-[MMCC Google Drive](https://drive.google.com/drive/folders/1pC5pqrGghx48fgoJsLDcg5D2qd8E_20f?usp=sharing)
+* [MMCC Google Drive](https://drive.google.com/drive/folders/1pC5pqrGghx48fgoJsLDcg5D2qd8E_20f?usp=sharing)
