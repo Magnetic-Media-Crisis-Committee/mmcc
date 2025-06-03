@@ -12,6 +12,6 @@ The MMCC seeks to establish, revise, and maintain best practices to promote sust
 
 ## Resources
 * [MMCC Discord](https://discord.gg/qtgYUdpn)
-  - Not sure how to use Discord? Use this [Discord Demo Tutorial](https://docs.google.com/document/d/1y4DLKqL_UekvcvuxAqKxMP_XteHBDYYqfUmvaY2xoTw/edit?usp=drive_link) we made to help folks get started!
+  - Unfamiliar with Discord? Use this [Discord Demo Tutorial](https://docs.google.com/document/d/1y4DLKqL_UekvcvuxAqKxMP_XteHBDYYqfUmvaY2xoTw/edit?usp=drive_link) to get started!
 * [MMCC FAQ](https://docs.google.com/document/d/13_-P4UgmRQh5tE0xg6pUpJYXVPT6j1W_39BGk_hJjc4/edit?usp=sharing)
 * [MMCC Google Drive](https://drive.google.com/drive/folders/1pC5pqrGghx48fgoJsLDcg5D2qd8E_20f?usp=sharing)
