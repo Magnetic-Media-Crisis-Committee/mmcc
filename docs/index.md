@@ -3,33 +3,21 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Magnetic Media Crisis Committee
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+The Association of Moving Image Archivists (AMIA) has sounded the alarm that magnetic media collections are at extreme risk. Mike Casey of Indiana University characterizes it as a “gathering storm.” As Casey asserts, magnetic media “objects are actively degrading, some catastrophically… Either degradation or obsolescence is serious enough by itself. The combination of the two is a potent threat that severely undermines preservation efforts.” Many archives, libraries, museums, historical societies and art and heritage organizations do not have access to the equipment required to process their magnetic media holdings and address magnetic media within their collections. In addition, archival training traditionally does not cover moving image preservation, leaving archivists unsure how to grapple with this “massive disaster.” Time is running out for these tapes to be preserved and save their historical content. The Library of Congress states in its [2012 National Recording Preservation Plan](https://www.clir.org/pubs/reports/pub156/) that analog tapes “must be digitized within the next 15 to 20 years before... degradation and the challenges of acquiring and maintaining playback equipment make the success of these efforts too expensive or unattainable.” This means we are in the eye of the storm with the expiration date of 2027-2032 swiftly approaching. Equipment obsolescence coupled with vast numbers of deteriorating materials, exacerbated by a lack of expertise and funding, has the potential to result in a staggering and irreversible loss of visual heritage.
 
-More specifically, the created site:
+## Mission
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+The mission of the Magnetic Media Crisis Committee (MMCC) is to support the archival community working to preserve audio and video magnetic media materials. The MMCC provides a collaborative space for knowledge-sharing, resource collection, project planning, advocacy, research, and development in order to promote awareness and develop concrete tools and strategies to cope with the growing crisis faced by magnetic media collections and the impacts of “degralescence.”
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Vision
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+The MMCC seeks to establish, revise, and maintain best practices to promote sustainable workflows that address shifting and escalating issues involved in the preservation of magnetic media on both audio and video formats. To address this work holistically, we include the obsolescence of the playback equipment, technical knowledge and the capacity of the archivists working to preserve these materials, as well as the physical tape itself, to be part of the current Magnetic Media Crisis. As a collective, the MMCC’s aim is to work modularly so resources, knowledge, time and labor are strategically maximized. Instead of discussing “degralescence” as the impending doom of our profession, we need to come to terms with the possibility that it may have already arrived, but there is still action that can be taken! If we are willing to collaborate and think of this as a “human problem” there must also be “human solutions.”
 
-To get started with creating a site, simply:
+## Resources
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+- [MMCC Discord](https://discord.com/invite/MS75fSmNGQ)
+  - Unfamiliar with Discord? Use this [Discord Demo Tutorial](https://docs.google.com/document/d/1y4DLKqL_UekvcvuxAqKxMP_XteHBDYYqfUmvaY2xoTw/edit?usp=drive_link) to get started!
+- [MMCC FAQ](https://docs.google.com/document/d/13_-P4UgmRQh5tE0xg6pUpJYXVPT6j1W_39BGk_hJjc4/edit?usp=sharing)
+- [MMCC Google Drive](https://drive.google.com/drive/folders/1pC5pqrGghx48fgoJsLDcg5D2qd8E_20f?usp=sharing)
